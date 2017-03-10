@@ -1,0 +1,12 @@
+INSERT INTO `Rest_Jax-RS_Ex2`.`Person` (`fName`, `lName`, `phone`) VALUES ('Elena', 'Drake', '35474785');
+INSERT INTO `Rest_Jax-RS_Ex2`.`Person` (`fName`, `lName`, `phone`) VALUES ('Nathan', 'Drake', '35478844');
+INSERT INTO `Rest_Jax-RS_Ex2`.`Person` (`fName`, `lName`, `phone`) VALUES ('Luke', 'Skywalker', '32145698');
+INSERT INTO `Rest_Jax-RS_Ex2`.`Person` (`fName`, `lName`, `phone`) VALUES ('Lara', 'Croft', '78854125');
+INSERT INTO `Rest_Jax-RS_Ex2`.`Person` (`fName`, `lName`, `phone`) VALUES ('Jackie', 'Chan', '21547854');
+INSERT INTO `Rest_Jax-RS_Ex2`.`Person` (`fName`, `lName`, `phone`) VALUES ('Bruce', 'Willis', '22558877');
+INSERT INTO `Rest_Jax-RS_Ex2`.`Person` (`fName`, `lName`, `phone`) VALUES ('Harrison', 'Ford', '23658854');
+INSERT INTO `Rest_Jax-RS_Ex2`.`Person` (`fName`, `lName`, `phone`) VALUES ('Emma', 'Watson', '52141452');
+INSERT INTO `Rest_Jax-RS_Ex2`.`Person` (`fName`, `lName`, `phone`) VALUES ('Jill', 'Valentine', '36989856');
+INSERT INTO `Rest_Jax-RS_Ex2`.`Person` (`fName`, `lName`, `phone`) VALUES ('Chris', 'Redfield', '84748547');
+INSERT INTO `Rest_Jax-RS_Ex2`.`Person` (`fName`, `lName`, `phone`) VALUES ('Claire', 'Redfield', '66554214');
+INSERT INTO `Rest_Jax-RS_Ex2`.`Person` (`fName`, `lName`, `phone`) VALUES ('Bruce', 'Wayne', '21452147');
